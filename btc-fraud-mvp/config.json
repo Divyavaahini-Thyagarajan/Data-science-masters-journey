@@ -1,0 +1,8 @@
+{
+  "rpc_url": "http://127.0.0.1:8332",
+  "rpc_user": "btcuser",
+  "rpc_password": "btcpass123",
+  "db_path": "btc.sqlite",
+  "start_height": 110100,
+  "end_height": 110110
+}

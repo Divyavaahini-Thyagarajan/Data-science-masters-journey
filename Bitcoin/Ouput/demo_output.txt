@@ -1,0 +1,12 @@
+
+==============================
+ EVM WALLET APPROVAL RISK SCAN
+==============================
+Wallet: 0x28C6c06298d514Db089934071355E5743bf21d60
+Latest block: 24263728
+Scanning blocks: 24261728 -> 24263728
+
+Found Approval logs: 68086
+
+No approvals found in this range.
+Tip: Increase --lookback_blocks (ex: 5000) or scan a wallet that has approvals.
